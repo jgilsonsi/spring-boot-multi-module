@@ -1,2 +1,2 @@
 # spring-boot-multi-module
-Just testing some multi-project on spring boot
+Just testing multi-project approach on spring boot
